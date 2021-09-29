@@ -1,4 +1,4 @@
-package censusanalyser;
+package com.censusanalyser;
 
 public class StateCensusAnalyserMain {
     public static void main(String[] args) {
